@@ -2,9 +2,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" alt="Waving Hand" />
-
-# Hi, I'm RKasai127
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+RyoKasai;Backend+Engineer;Python+%2F+TypeScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+RyoKasai;Backend+Engineer;Python+%2F+TypeScript" alt="Hi, I'm RyoKasai" />
+  </picture>
+</a>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="Sparkles" /> **Backend Engineer** | Python / TypeScript <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="Sparkles" />
 
@@ -22,21 +25,22 @@ Looking to contribute more actively to **open source projects (mainly Python / T
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=RKasai127&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=RKasai127&layout=compact&hide_border=true" />
 
 </div>
-
-## OSS Contributions
-
-[![Tracer-Cloud](https://img.shields.io/badge/Tracer--Cloud-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tracer-Cloud)
 
 ## Articles / Outputs
 
 <div>
 
+[![Zenn](https://img.shields.io/badge/Zenn-ryokasai-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/ryokasai)
 [![Qiita](https://img.shields.io/badge/Qiita-RK127-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/RK127)
 
 </div>
 
 I mainly write about technologies I'm exploring and what I've learned along the way.
+
+### Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
