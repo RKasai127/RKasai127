@@ -1,4 +1,6 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=RKasai127&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=RKasai127&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <div align="center">
 
