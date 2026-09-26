@@ -45,4 +45,7 @@ I mainly write about technologies I'm exploring and what I've learned along the 
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【ADHD必読】i-have-adhd使ってみた](https://qiita.com/RK127/items/b0bccfb41f87d7bfa020)
+- [解剖！！FastAPI](https://qiita.com/RK127/items/2cd136e184e0292fc1a0)
+- [【個人開発】Excelの初期表示リセットツール xlreset を作った話](https://qiita.com/RK127/items/2d4e51cebfe806abaf70)
 <!-- BLOG-POST-LIST:END -->
