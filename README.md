@@ -13,23 +13,45 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="Sparkles" /> **Backend Engineer** | Python / TypeScript <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="Sparkles" />
 
-I work as a backend engineer, primarily building systems with **Python** in my day job.
-In my spare time, I write **TypeScript** and have a growing interest in security topics.
-Looking to contribute more actively to **open source projects (mainly Python / TypeScript)**.
+**5 years** in software development (3 full-stack, 2 backend) — building **FastAPI** backends for membership services with **1M+ members**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rkasai.dev-0E75B6?style=for-the-badge)](https://rkasai.dev/)
 
 </div>
 
+## About Me
+
+- **Development** — Building APIs (**FastAPI**) and batch jobs (**Python**) for membership services with 1M–2M members
+  - APIs handling personal data: address changes, account deletion, and third-party age-verification integrations
+  - Batch jobs for data aggregation and automatically entering eligible members into campaigns
+- **Quality** — Added ~300 tests for the **Auth0**-based authentication layer, wired them into CI, and maintain **97%+** coverage
+- **Release** — Owned production releases on **Heroku** (Pipelines promote) and **AWS** (CI/CD), from coordinating release schedules with clients and other teams to verifying production after each release
+- **Infrastructure** — Built and released a new development environment on AWS in **2–3 weeks** (including research) by extending existing **CloudFormation** templates
+  - Connected the new environment to **Heroku**
+  - Decided whether to reuse existing security groups and which **CloudWatch** alarms to add
+  - Used AI tools to draft the setup procedure
+- **Team** — Currently Project Lead (sub-leader) of the development team
+  - Improving team productivity through code reviews and progress management
+  - Facilitating the team's daily stand-ups and progress meetings with clients
+  - Mentoring new graduates
+
+## What I Enjoy
+
+- **Turning everyday annoyances into tools** — Nothing makes me happier than seeing people use what I built and ask for more features
+  - [xlreset](https://github.com/RKasai127/xlreset) (PyPI) — Resets every Excel sheet to cell A1 at 100% zoom
+  - [vscode-autoconfig](https://github.com/RKasai127/vscode-autoconfig) (npm) — Generates VS Code settings from your project's dependencies
+- **Security** — Finding vulnerabilities and reporting them to make products safer for their developers and users
+- **Reading source code** — Delving into frameworks like FastAPI and Astro to understand how they work
+
+## Where I'm Headed
+
+Grounded in backend, I want to grow into an engineer who delivers business impact — expanding across **frontend, infrastructure, and security**, and building better products together with a team.
+
+## Tech Stack
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,fastapi,nextjs,angular,astro,aws,heroku,docker,cloudflare)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=RKasai127&layout=compact&hide_border=true" />
+[![My Skills](https://skillicons.dev/icons?i=python,ts,fastapi,angular,astro,aws,heroku,docker)](https://skillicons.dev)
 
 </div>
 
