@@ -17,6 +17,8 @@ I work as a backend engineer, primarily building systems with **Python** in my d
 In my spare time, I write **TypeScript** and have a growing interest in security topics.
 Looking to contribute more actively to **open source projects (mainly Python / TypeScript)**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rkasai.dev-0E75B6?style=for-the-badge)](https://rkasai.dev/)
+
 </div>
 
 <div align="center">
@@ -30,6 +32,11 @@ Looking to contribute more actively to **open source projects (mainly Python / T
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=RKasai127&layout=compact&hide_border=true" />
 
 </div>
+
+## Open Source Contributions
+
+- **[github/spec-kit](https://github.com/github/spec-kit)** — Added a Japanese README ([#4560](https://github.com/github/spec-kit/pull/4560))
+- **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — Added a naming guard test for umbrella names ([#5460](https://github.com/Tracer-Cloud/opensre/pull/5460))
 
 ## Articles / Outputs
 
