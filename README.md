@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="Sparkles" /> **Backend Engineer** | Python / TypeScript <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="Sparkles" />
 
-**5 years** in software development (3 full-stack, 2 backend) — building **FastAPI** backends for membership services with **1M+ members**.
+5 years in software development (3 full-stack, 2 backend) — building FastAPI backends for membership services with 1M+ members.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rkasai.dev-0E75B6?style=for-the-badge)](https://rkasai.dev/)
 
@@ -21,14 +21,14 @@
 
 ## About Me
 
-- **Development** — Building APIs (**FastAPI**) and batch jobs (**Python**) for membership services with 1M–2M members
+- **Development** — Building APIs (FastAPI) and batch jobs (Python) for membership services with 1M–2M members
   - APIs handling personal data: address changes, account deletion, and third-party age-verification integrations
   - Batch jobs for data aggregation and automatically entering eligible members into campaigns
-- **Quality** — Added ~300 tests for the **Auth0**-based authentication layer, wired them into CI, and maintain **97%+** coverage
-- **Release** — Owned production releases on **Heroku** (Pipelines promote) and **AWS** (CI/CD), from coordinating release schedules with clients and other teams to verifying production after each release
-- **Infrastructure** — Built and released a new development environment on AWS in **2–3 weeks** (including research) by extending existing **CloudFormation** templates
-  - Connected the new environment to **Heroku**
-  - Decided whether to reuse existing security groups and which **CloudWatch** alarms to add
+- **Quality** — Added ~300 tests for the Auth0-based authentication layer, wired them into CI, and maintain 97%+ coverage
+- **Release** — Owned production releases on Heroku (Pipelines promote) and AWS (CI/CD), from coordinating release schedules with clients and other teams to verifying production after each release
+- **Infrastructure** — Built and released a new development environment on AWS in 2–3 weeks (including research) by extending existing CloudFormation templates
+  - Connected the new environment to Heroku
+  - Decided whether to reuse existing security groups and which CloudWatch alarms to add
   - Used AI tools to draft the setup procedure
 - **Team** — Currently Project Lead (sub-leader) of the development team
   - Improving team productivity through code reviews and progress management
@@ -45,7 +45,7 @@
 
 ## Where I'm Headed
 
-Grounded in backend, I want to grow into an engineer who delivers business impact — expanding across **frontend, infrastructure, and security**, and building better products together with a team.
+Grounded in backend, I want to grow into an engineer who delivers business impact — expanding across frontend, infrastructure, and security, and building better products together with a team.
 
 ## Tech Stack
 
