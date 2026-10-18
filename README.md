@@ -66,7 +66,7 @@ Grounded in backend, I want to grow into an engineer who delivers business impac
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【CTF】CpawCTF-Level1で使用したツールまとめ](https://zenn.dev/ryokasai/articles/b94c83423c47c5)
 - [セレクタを書かずにスクレイピングするツール jevrake を作りました](https://zenn.dev/ryokasai/articles/jevrake-selector-free-scraping)
 - [【ADHD必読】i-have-adhd使ってみた](https://qiita.com/RK127/items/b0bccfb41f87d7bfa020)
-- [解剖！！FastAPI](https://qiita.com/RK127/items/2cd136e184e0292fc1a0)
 <!-- BLOG-POST-LIST:END -->
