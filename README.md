@@ -54,6 +54,10 @@ Grounded in backend, I want to grow into an engineer who delivers business impac
 - **[github/spec-kit](https://github.com/github/spec-kit)** — Added a Japanese README ([#4560](https://github.com/github/spec-kit/pull/4560))
 - **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — Added a naming guard test for umbrella names ([#5460](https://github.com/Tracer-Cloud/opensre/pull/5460))
 
+## Security Advisories
+
+- **[withastro/astro](https://github.com/withastro/astro)** — Reported an XSS via unescaped dynamic content in JSX and MDX script or style elements (Medium, fixed in 7.3.2) ([GHSA-98hj-9722-w3j8](https://github.com/withastro/astro/security/advisories/GHSA-98hj-9722-w3j8))
+
 ## Articles / Outputs
 
 <div>
