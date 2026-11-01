@@ -70,7 +70,7 @@ Grounded in backend, I want to grow into an engineer who delivers business impac
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI時代のセキュリティ設計について考えてみた](https://zenn.dev/ryokasai/articles/4489f8683b8e8f)
 - [emudhra事件をうけてサーバ証明書について調べてみた](https://zenn.dev/ryokasai/articles/6837465648bf0c)
 - [【CTF】CpawCTF-Level1で使用したツールまとめ](https://zenn.dev/ryokasai/articles/b94c83423c47c5)
-- [セレクタを書かずにスクレイピングするツール jevrake を作りました](https://zenn.dev/ryokasai/articles/jevrake-selector-free-scraping)
 <!-- BLOG-POST-LIST:END -->
